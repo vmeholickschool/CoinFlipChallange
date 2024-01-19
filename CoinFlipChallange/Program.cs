@@ -3,8 +3,8 @@ using System.ComponentModel.Design;
 
 string yes = "yes";
 string no = "no";
-int heads = 0;
-int tails = 1;
+string heads = "heads";
+string tails = "tails";
 int headFlips = 0;
 int tailFlips = 1;
 
